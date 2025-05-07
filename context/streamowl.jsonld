@@ -1,0 +1,13 @@
+{
+    "@context": {
+        "type": "@type",
+        "id": "@id",
+        "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
+        "schema": "https://schema.org/",
+        "streamowl": "https://multipass-project.github.io/context/streamowl.html#",
+        "location": "ngsi-ld:location",
+        "description": "schema:description",
+        "dateCreated": "ngsi-ld:dateCreated",
+        "dateModified": "ngsi-ld:dateModified"        
+    }
+}
