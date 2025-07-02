@@ -1,0 +1,29 @@
+{
+  "type": [
+    "DigitalProductPassport",
+    "VerifiableCredential"
+  ],
+  "@context": [
+    "https://www.w3.org/ns/credentials/v2",
+    "https://test.uncefact.org/vocabulary/untp/dpp/0/",
+    "https://multipass-project.github.io/context/streamowl.html"
+  ],
+  "eventID": "urn:uuid:38ac812c-e8b4-4c49-9274-6a26d2e0af21",
+  "eventTime": "2025-07-02T08:30:00+03:00",
+  "eventType": "WELD_XRAY_INSPECTION",
+  "inspectedItem": [
+    "urn:epc:id:sgtin:0614141.107346.2024WELDING01"
+  ],
+  "location": {
+    "name": "StreamOwl Labs"
+  },
+  "inspector": {
+    "name": "Maria Georgiou"
+  },
+  "inspectionMethod": "X-ray radiographic inspection (EN ISO 17636-1)",
+  "xraySettings": {
+    "name": "X-ray Voltage",
+    "value": "220 kV"
+  },
+  "result": "PASSED"
+}

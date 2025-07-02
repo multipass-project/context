@@ -4,6 +4,8 @@
         "id": "@id",
         "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
         "schema": "https://schema.org/",
+        "untp-dpp": "https://test.uncefact.org/vocabulary/untp/dpp/0/",
+        "untp-core": "https://test.uncefact.org/vocabulary/untp/core/0/",
         "streamowl": "https://multipass-project.github.io/context/streamowl.html#",
         "location": "ngsi-ld:location",
         "description": "schema:description",
